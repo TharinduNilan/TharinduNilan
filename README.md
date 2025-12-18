@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💼 Currently working as **Self Employee**
+- 🌱 Learning **ReactJS, NextJS, Express, Tailwind CSS, CSS, MySQL, MongoDB**
+- 🔭 Interested in **Web Development**
+- 🧠 Strong in **ReactJS and NextJS**
+- 📫 Reach me at: **tharindunilan04@gmail.com**
+- 🌍 Based in **Sri Lanka**
