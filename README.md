@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Tharindu Nilan**
+
+**Front-End Developer** | Undergraduate Software Engineer  
+📍 Sri Lanka | 📧 tharindunilan04@gmail.com  
+[🌐 Portfolio](https://tharindu.site) | [LinkedIn](https://www.linkedin.com/in/tharindu-n) | [GitHub](https://github.com/TharinduNilan)
 
 <!--
 **TharinduNilan/TharinduNilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
