@@ -2,16 +2,7 @@
 
 **Front-End Developer** | Undergraduate Software Engineer  
 📍 Sri Lanka | 📧 tharindunilan04@gmail.com  
-[🌐 Portfolio](https://tharindu.site) | [<svg width="24" height="24" viewBox="0 0 24 24" fill="#0A66C2" xmlns="http://www.w3.org/2000/svg">
-  <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM0 24h5V7H0v17zM7 7h4.8v2.3h.1c.7-1.3 2.4-2.7 5-2.7 5.3 0 6.3 3.5 6.3 8V24h-5v-7.5c0-1.8 0-4.2-2.6-4.2s-3 2-3 4V24H7V7z"/>
-</svg>
- LinkedIn](https://www.linkedin.com/in/tharindu-n) | [<svg width="24" height="24" viewBox="0 0 24 24" fill="#000000" xmlns="http://www.w3.org/2000/svg">
-  <path d="M12 .5C5.7.5.5 5.8.5 12.2c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.3.8-.6v-2.1c-3.2.7-3.9-1.6-3.9-1.6-.5-1.3-1.3-1.6-1.3-1.6-1-.7.1-.7.1-.7 1.1.1 1.7 1.2 1.7 1.2 1 .1.8 1.9 2.6 1.4.1-.8.4-1.4.7-1.7-2.5-.3-5.1-1.3-5.1-5.7 0-1.3.5-2.4 1.2-3.3-.1-.3-.5-1.6.1-3.3 0 0 1-.3 3.3 1.2 1-.3 2-.4 3-.4s2 .1 3 .4c2.3-1.5 3.3-1.2 3.3-1.2.6 1.7.2 3 .1 3.3.8.9 1.2 2 1.2 3.3 0 4.4-2.6 5.4-5.1 5.7.4.4.8 1.1.8 2.3v3.4c0 .3.2.7.8.6 4.6-1.5 7.9-5.8 7.9-10.9C23.5 5.8 18.3.5 12 .5z"/>
-</svg>
- GitHub](https://github.com/TharinduNilan) | [<svg width="24" height="24" viewBox="0 0 24 24" fill="#FF0000" xmlns="http://www.w3.org/2000/svg">
-  <path d="M23.5 6.2s-.2-1.6-.9-2.3c-.9-.9-1.9-.9-2.4-1C16.8 2.5 12 2.5 12 2.5h0s-4.8 0-8.2.4c-.5.1-1.5.1-2.4 1C.7 4.6.5 6.2.5 6.2S0 8.1 0 10v1.9c0 1.9.5 3.8.5 3.8s.2 1.6.9 2.3c.9.9 2.1.9 2.6 1 1.9.2 8 .4 8 .4s4.8 0 8.2-.4c.5-.1 1.5-.1 2.4-1 .7-.7.9-2.3.9-2.3s.5-1.9.5-3.8V10c0-1.9-.5-3.8-.5-3.8zM9.5 14.5v-7l6 3.5-6 3.5z"/>
-</svg>
- YouTube](https://www.youtube.com/@ntndevlab)
+[🌐 Portfolio](https://tharindu.site) | [🔗 LinkedIn](https://www.linkedin.com/in/tharindu-n) | [🐙 GitHub](https://github.com/TharinduNilan) | [▶️ YouTube](https://www.youtube.com/@ntndevlab)
 
 <!--
 **TharinduNilan/TharinduNilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
