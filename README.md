@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Tharindu Nilan**
 
 **Front-End Developer** | Undergraduate Software Engineer  
-📍 Sri Lanka | 📧 tharindunilan04@gmail.com | 🔗 https://tharindu.site
+📍 Sri Lanka | 📧 tharindunilan04@gmail.com
 <p>
   <a href="https://tharindu.site">
     <img src="[https://img.shields.io/badge/Portfolio-000000](https://www.tharindu.site/logo.png)?style=flat&logo=vercel&logoColor=white" />
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 Learning **ReactJS, NextJS, Express, Tailwind CSS, CSS, MySQL, MongoDB**
 - 🔭 Interested in **Web Development**
 - 🧠 Strong in **ReactJS and NextJS**
-- 📫 Reach me at: **tharindunilan04@gmail.com**
+- 📫 Reach me at: **[Portfolio](https://tharindu.site)**
 - 🌍 Based in **Sri Lanka**
 
 # 💻 Tech Stack:
