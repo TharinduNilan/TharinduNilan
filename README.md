@@ -2,7 +2,20 @@
 
 **Front-End Developer** | Undergraduate Software Engineer  
 📍 Sri Lanka | 📧 tharindunilan04@gmail.com  
-[🌐 Portfolio](https://tharindu.site) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindu-n) | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TharinduNilan) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ntndevlab)
+<p align="left">
+  <a href="https://tharindu.site" target="_blank">
+    🌐 Portfolio
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tharindu-n" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/TharinduNilan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ntndevlab" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="28" />
+  </a>
+</p>
 
 <!--
 **TharinduNilan/TharinduNilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
