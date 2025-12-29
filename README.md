@@ -2,18 +2,18 @@
 
 **Front-End Developer** | Undergraduate Software Engineer  
 📍 Sri Lanka | 📧 tharindunilan04@gmail.com  
-<p align="left">
-  <a href="https://tharindu.site" target="_blank">
-    🌐 Portfolio
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tharindu-n" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/TharinduNilan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@ntndevlab" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="28" />
+<p>
+  <a href="https://tharindu.site">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tharindu-n">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/TharinduNilan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@ntndevlab">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
   </a>
 </p>
 
