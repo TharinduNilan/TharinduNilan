@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Tharindu Nilan**
 
 **Front-End Developer** | Undergraduate Software Engineer  
-📍 Sri Lanka | 📧 tharindunilan04@gmail.com  
+📍 Sri Lanka | 📧 tharindunilan04@gmail.com | 🔗 https://tharindu.site
 <p>
   <a href="https://tharindu.site">
     <img src="[https://img.shields.io/badge/Portfolio-000000](https://www.tharindu.site/logo.png)?style=flat&logo=vercel&logoColor=white" />
