@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 Learning **ReactJS, NextJS, Express, Tailwind CSS, CSS, MySQL, MongoDB**
 - 🔭 Interested in **Web Development**
 - 🧠 Strong in **ReactJS and NextJS**
-- 📫 Reach me at: **[Portfolio](https://tharindu.site)**
+- 📫 Reach me at: **[Portfolio](https://tharindunilan.vercel.app/)**
 - 🌍 Based in **Sri Lanka**
 
 # 💻 Tech Stack:
